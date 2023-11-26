@@ -10,4 +10,5 @@ struct student
     float average_mark;
     void Input();
     void Print();
+
 };
