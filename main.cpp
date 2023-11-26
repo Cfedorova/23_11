@@ -12,8 +12,7 @@ void student::Input() {
 }
 
 void student::Print() {
-    cout << "My name is " << name << "." << endl;
-    cout << "I am " << age << " years" << ". [" << average_mark << "]\n";
+    cout << "My name is " << name << ". I am " << age << " years" << ". [" << average_mark << "]\n";
 }
 
 
